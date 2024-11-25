@@ -1,0 +1,10 @@
+langchain-core==0.2.22
+langchain-openai==0.1.17
+langchain-text-splitters==0.2.2
+openai==1.36.0
+python-dotenv==1.0.1
+langchain_chroma==0.1.2
+langchainhub==0.1.20
+langchain-text-splitters
+langchain-chroma
+pypdf
